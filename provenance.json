@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/anthropics/claude-plugins-official",
+  "revision": "ac996c0dde7fb2a9f805cd5277ffc95ecd44a321",
+  "path": "external_plugins/firebase",
+  "source_sha256": "0b6a2bcb1fdf42a823603b880c5f12d695ee2c288636f44db3a891b20b26ba79",
+  "artifacts": {
+    "command.mjs": "d5619c67f618c515e7643c5de503d38c3b3d80e44a43bb2db0b16ac06d0e39c1",
+    "status.mjs": "db08b2ec3d5c5de96b264cb54b90fa34b76a9156d0219d084317a8769b76f118"
+  }
+}

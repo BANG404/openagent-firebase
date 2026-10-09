@@ -1,0 +1,6 @@
+{
+  "revision": "ac996c0dde7fb2a9f805cd5277ffc95ecd44a321",
+  "prerequisites": [
+    "Node.js/npm and a Firebase account; firebase-tools 15.33.0 uses the active workspace."
+  ]
+}
