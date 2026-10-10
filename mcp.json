@@ -3,6 +3,14 @@
   "mcpServers": {
     "firebase": {
       "command": "npx",
+      "env": {
+        "npm_config_cache": "${PLUGIN_DATA}/npm-cache",
+        "XDG_CONFIG_HOME": "${PLUGIN_DATA}/config",
+        "npm_config_ignore_scripts": "true",
+        "XDG_CACHE_HOME": "${PLUGIN_DATA}/cache",
+        "HOME": "${PLUGIN_DATA}",
+        "USERPROFILE": "${PLUGIN_DATA}"
+      },
       "args": [
         "-y",
         "firebase-tools@15.33.0",
