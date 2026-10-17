@@ -1,6 +1,6 @@
-# firebase for OpenAgent
+# Firebase Projects
 
-Manage Firebase through the official Firebase MCP server.
+Inspect and manage Firebase project resources from your workspace; requires Firebase account access.
 
 Install the release archive through OpenAgent Integrations → Plugins. This is an independent adaptation.
 
@@ -18,7 +18,7 @@ Bundled tests cover immutable artifacts, config conversion and service configura
 
 ## 中文
 
-通过官方 MCP 服务管理 Firebase。 安装发布包后运行 /firebase:setup 查看配置要求。凭据和状态保存在当前 OpenAgent 数据目录的 plugin-data/firebase/ 下，修改后刷新插件。
+在工作区中查看和管理 Firebase 项目资源，需要 Firebase 账号访问权限。 安装发布包后运行 /firebase:setup 查看配置要求。凭据和状态保存在当前 OpenAgent 数据目录的 plugin-data/firebase/ 下，修改后刷新插件。
 
 Upstream source and exact revision are recorded in provenance.json. Bundled source remains available for inspection.
 
